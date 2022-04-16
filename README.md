@@ -12,12 +12,12 @@ Springboot JAX-RS Sample
 
 ## Controller in SpringBoot JAX-RS
 
-https://github.com/iamvickyav/springboot-jax-rs-sample/blob/master/src/main/java/com/iamvickyav/springbootjaxrssample/controller/BookController.java
+[BookController.java](https://github.com/iamvickyav/springboot-jax-rs-sample/blob/master/src/main/java/com/iamvickyav/springbootjaxrssample/controller/BookController.java)
 
 ## Exception handling in SpringBoot JAX-RS
 
-https://github.com/iamvickyav/springboot-jax-rs-sample/tree/master/src/main/java/com/iamvickyav/springbootjaxrssample/exception
+[Exception Handling](https://github.com/iamvickyav/springboot-jax-rs-sample/tree/master/src/main/java/com/iamvickyav/springbootjaxrssample/exception)
 
 ## Resource Config to register JAX-RS resources
 
-https://github.com/iamvickyav/springboot-jax-rs-sample/tree/master/src/main/java/com/iamvickyav/springbootjaxrssample/config
+[Resource Config](https://github.com/iamvickyav/springboot-jax-rs-sample/tree/master/src/main/java/com/iamvickyav/springbootjaxrssample/config)
