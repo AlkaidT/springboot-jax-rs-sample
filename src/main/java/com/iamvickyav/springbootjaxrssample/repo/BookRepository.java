@@ -6,6 +6,9 @@ import org.springframework.data.repository.query.Param;
 
 import java.util.List;
 
+/**
+ * @author daika
+ */
 public interface BookRepository extends JpaRepository<Book, String> {
     List<Book> findByAuthorContaining(@Param("author") String authorName);
 
